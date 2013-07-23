@@ -1,0 +1,3 @@
+interface Question {
+    Enum getType();
+}
